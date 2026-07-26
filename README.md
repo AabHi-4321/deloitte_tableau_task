@@ -1,11 +1,17 @@
+<div align="center">
+
 # 🏭 Factory Equipment Health Analysis
-### Deloitte Data Analytics Virtual Experience | Tableau Dashboard Project
+
+### Deloitte Data Analytics Virtual Experience
 
 <p>
   <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-blue" alt="Tableau">
   <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-success" alt="Forage">
   <img src="https://img.shields.io/badge/Project-Completed-brightgreen" alt="Completed">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange" alt="Level">
 </p>
+
+</div>
 ---
 
 # 📖 Project Overview
