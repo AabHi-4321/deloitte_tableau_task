@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 🏭 Factory Equipment Health Analysis
 
@@ -12,7 +12,7 @@
 </p>
 
 </div>
----
+
 
 # 📖 Project Overview
 
