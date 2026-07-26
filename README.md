@@ -78,18 +78,6 @@ The dashboard enables quick identification of high-risk factories and equipment,
 - Monitor Heavy Duty Drills to prevent further degradation.
 - Establish routine health monitoring to reduce equipment downtime.
 
----
-
-## 📁 Project Structure
-
-```
-Factory-Equipment-Health-Analysis/
-│
-├── Dashboard.twb
-├── dashboard.png
-├── README.md
-└── dataset.csv
-```
 
 ---
 
@@ -110,21 +98,5 @@ Factory-Equipment-Health-Analysis/
 Developed an interactive Tableau dashboard that converts raw operational data into actionable business insights, enabling stakeholders to identify high-risk factories and equipment requiring immediate attention.
 
 ---
-
-## 👨‍💻 Author
-
-**Abhishek Tewari**
-
-B.Tech Computer Science & Engineering Graduate (2026)
-
-Aspiring Data Analyst
-
-Skills:
-- Excel
-- SQL
-- Power BI
-- Tableau
-- Python
-- Power Query
 
 GitHub: https://github.com/AabHi-4321
