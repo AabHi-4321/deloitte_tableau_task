@@ -1,10 +1,11 @@
 # 🏭 Factory Equipment Health Analysis
 ### Deloitte Data Analytics Virtual Experience | Tableau Dashboard Project
 
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue)
-![Forage](https://img.shields.io/badge/Forage-Virtual%20Experience-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
+<p>
+  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-blue" alt="Tableau">
+  <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-success" alt="Forage">
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen" alt="Completed">
+</p>
 ---
 
 # 📖 Project Overview
