@@ -58,7 +58,7 @@ The data was analyzed using Tableau to generate meaningful visualizations and id
 
 > Dashboard Image
 
-![Dashboard](dashboard.png)
+![Dashboard](tableau_dashboard.png)
 
 ---
 
@@ -117,20 +117,7 @@ Based on the analysis:
 - Monitor Heavy Duty Drills to reduce unexpected failures.
 - Implement periodic equipment health monitoring across all factories.
 
----
 
-# 📁 Repository Structure
-
-```
-Factory-Equipment-Health-Analysis
-│
-├── README.md
-├── dashboard.png
-├── Dashboard.twb
-├── Dataset.csv
-├── Deloitte Certificate.pdf
-└── Additional Resources
-```
 
 ---
 
@@ -195,8 +182,6 @@ Aspiring Data Analyst
 GitHub:
 https://github.com/AabHi-4321
 
-LinkedIn:
-(Add your LinkedIn profile here)
 
 ---
 
