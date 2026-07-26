@@ -129,7 +129,7 @@ Upon successful completion of all required tasks, I earned the official completi
 
 The certificate has been included in this repository for reference.
 
-📄 **Certificate:** `Deloitte Certificate.pdf`
+![certificate](deloitte_job_simulation_virtual_intership_certificate.pdf)
 
 ---
 
